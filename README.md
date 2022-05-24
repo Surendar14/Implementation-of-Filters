@@ -47,8 +47,8 @@ Display all the images with their respective filters.
 
 ## Program:
 ```python
-# Developed By   : Dineshkumar S
-# Register Number: 212220230012
+# Developed By   : Surendar 
+# Register Number: 212220230051
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
